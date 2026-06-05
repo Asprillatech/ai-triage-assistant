@@ -1,6 +1,6 @@
 # 🛡️ AI Triage Assistant
 
-A portfolio-ready AI prototype for IT support and cybersecurity triage — built with Python and Streamlit. No API key or paid service required.
+AI prototype for IT support and cybersecurity triage built with Python and Streamlit. No API key or paid service required.
 
 ---
 
